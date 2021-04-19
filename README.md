@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alehmn007hi
 - 👀 I’m interested in molecular dynamics 
-- 🌱 I’m currently learning dpd 
-- 💞️ I’m looking to collaborate on Fudan university
+- 🌱 I’m currently learning deeppotential md 
 - 📫 How to reach me : 19110440007@fudan.edu.cn
 
 <!---
